@@ -1,2 +1,2 @@
-#AG-Config
-AG-Admin所用到的config
+#syz-Config
+syz-admin所用到的config

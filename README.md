@@ -1,2 +1,2 @@
-# syz-Config
-#创建pringcloud配置中心
+#AG-Config
+AG-Admin所用到的config
